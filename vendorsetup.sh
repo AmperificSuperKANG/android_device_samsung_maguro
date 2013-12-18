@@ -1,1 +1,1 @@
-add_lunch_combo omni_maguro-userdebug
+add_lunch_combo ampere_maguro-userdebug

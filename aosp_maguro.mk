@@ -13,6 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-$(call inherit-product, device/samsung/maguro/omni_maguro.mk)
+$(call inherit-product, device/samsung/maguro/ampere_maguro.mk)
 
 PRODUCT_NAME := aosp_maguro

@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "ampere",
+    "repository": "android_device_samsung_tuna",
+    "target_path": "device/samsung/tuna",
+    "revision": "4.4"
+  },
+  {
+    "remote": "ampere",
+    "repository": "kernel_tuna",
+    "target_path": "kernel/samsung/tuna",
+    "revision": "milestone"
+  }
+]
